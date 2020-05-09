@@ -1,0 +1,11 @@
+/Users/dianakravets/Data/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.csprojAssemblyReference.cache
+/Users/dianakravets/Data/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.AssemblyInfoInputs.cache
+/Users/dianakravets/Data/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.AssemblyInfo.cs
+/Users/dianakravets/Data/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp
+/Users/dianakravets/Data/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.deps.json
+/Users/dianakravets/Data/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.runtimeconfig.json
+/Users/dianakravets/Data/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.runtimeconfig.dev.json
+/Users/dianakravets/Data/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.dll
+/Users/dianakravets/Data/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.pdb
+/Users/dianakravets/Data/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.dll
+/Users/dianakravets/Data/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.pdb
